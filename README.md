@@ -1,1 +1,9 @@
-# Projects-Python
+# 🐍 Projects-Python
+- [x] 🎰 Slot Machine
+
+
+
+
+
+
+
